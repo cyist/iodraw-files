@@ -121,8 +121,8 @@
         <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-34" value="接着ブリッジの&lt;div&gt;支台装置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="640" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;opacity=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="440" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
