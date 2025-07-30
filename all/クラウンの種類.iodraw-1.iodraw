@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" border="50" scale="3" compressed="false" locked="false" version="24.7.17">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="431" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="252" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -107,7 +107,7 @@
           <mxGeometry x="280" y="440" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-30" value="ピンレッジ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="480" width="110" height="30" as="geometry" />
+          <mxGeometry x="280" y="340" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-31" value="アンレー" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="560" width="110" height="30" as="geometry" />
@@ -120,9 +120,6 @@
         </mxCell>
         <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-34" value="接着ブリッジの&lt;div&gt;支台装置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="640" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;dashed=1;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="440" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
