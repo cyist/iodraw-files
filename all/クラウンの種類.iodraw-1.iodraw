@@ -124,8 +124,8 @@
         <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-34" value="接着ブリッジの&lt;div&gt;支台装置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="640" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-43" value="前歯部に適用される&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="414" y="370" width="126" height="30" as="geometry" />
+        <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-43" value="前歯部に適用される" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="417" y="360" width="126" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
