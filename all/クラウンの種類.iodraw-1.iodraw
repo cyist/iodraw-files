@@ -38,10 +38,10 @@
           <mxGeometry x="280" y="150" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-12" value="全部金属冠" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="190" width="100" height="30" as="geometry" />
+          <mxGeometry x="280" y="220" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-14" value="全部金属冠" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="250" width="100" height="30" as="geometry" />
+          <mxGeometry x="280" y="280" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
