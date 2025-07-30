@@ -127,6 +127,15 @@
         <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-45" value="臼歯部に適用される" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="390" y="400" width="126" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-46" value="臼歯部に適用される" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="390" y="440" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-47" value="臼歯部に適用される" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="390" y="480" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xw4Cc3TCzHl8W-tTjk2b-48" value="臼歯部に適用される" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="126" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
